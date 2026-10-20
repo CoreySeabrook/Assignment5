@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\corey\\downloads\\a5_startercode\\platformer2d\\source\\platformer2d\\cameradataasset.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\corey\\downloads\\a5_startercode\\platformer2d\\intermediate\\build\\win64\\x64\\platformer2deditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\corey\\downloads\\a5_startercode\\platformer2d\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\platformer2d\\definitions.platformer2d.h",
+            "c:\\users\\corey\\downloads\\a5_startercode\\platformer2d\\source\\platformer2d\\cameradataasset.h",
+            "c:\\users\\corey\\downloads\\a5_startercode\\platformer2d\\intermediate\\build\\win64\\unrealeditor\\inc\\platformer2d\\uht\\cameradataasset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

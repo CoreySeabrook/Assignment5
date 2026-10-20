@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\corey\\downloads\\a5_startercode\\platformer2d\\source\\platformer2d\\mariocamera.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\corey\\downloads\\a5_startercode\\platformer2d\\intermediate\\build\\win64\\x64\\platformer2deditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\corey\\downloads\\a5_startercode\\platformer2d\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\platformer2d\\definitions.platformer2d.h",
+            "c:\\users\\corey\\downloads\\a5_startercode\\platformer2d\\source\\platformer2d\\mariocamera.h",
+            "c:\\users\\corey\\downloads\\a5_startercode\\platformer2d\\intermediate\\build\\win64\\unrealeditor\\inc\\platformer2d\\uht\\mariocamera.generated.h",
+            "c:\\users\\corey\\downloads\\a5_startercode\\platformer2d\\source\\platformer2d\\cameradataasset.h",
+            "c:\\users\\corey\\downloads\\a5_startercode\\platformer2d\\intermediate\\build\\win64\\unrealeditor\\inc\\platformer2d\\uht\\cameradataasset.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Platformer2D.gen.cpp.obj": [
+			"CameraDataAsset.gen.cpp.obj",
+			"MarioCamera.gen.cpp.obj",
+			"Platformer2D.init.gen.cpp.obj",
+			"PlatformerGameModeBase.gen.cpp.obj"
+		]
+	}
+}
